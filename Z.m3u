@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1
+#EXTINF:-1,
 https://www.terabox.com/api/streaming?path=%2FSeries%2FNetflix%2FHeartstopper%2FHeartstopper%20S01E02.mkv&app_id=250528&clienttype=0&type=M3U8_AUTO_720&vip=0
